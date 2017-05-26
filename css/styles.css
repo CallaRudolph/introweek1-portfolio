@@ -1,5 +1,8 @@
-.jumbotron {
+.well {
+  font-family: cursive;
   text-align: center;
+  background: #d9534f;
+  word-wrap: break-word;
 }
 
 img {
@@ -7,4 +10,8 @@ img {
   height: auto;
   margin: 2px;
   padding: .5px;
+}
+
+.well1 {
+  background: #eca9a7
 }
