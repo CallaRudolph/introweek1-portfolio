@@ -1,15 +1,23 @@
+body {
+
+}
 .well {
   font-family: cursive;
   text-align: center;
-  background: #d9534f;
+  background-color: #d9534f;
   word-wrap: break-word;
+  width: auto;
+  margin: 2px;
+  border: 2px solid purple;
 }
 
-img {
+.container {
+}
+
+.well img {
   width: 150px;
   height: auto;
-  margin: 2px;
-  padding: .5px;
+  padding: 1px;
 }
 
 .well1 {
