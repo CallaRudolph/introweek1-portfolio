@@ -1,14 +1,13 @@
 .well {
-    float: center;
-    font-family: serif;
-  font: georgia;
   text-align: center;
+  font-family: serif;
+  font: georgia;
   background-image: url(well.jpg);
   width: 50%;
-  margin: 2px;
+  margin: 10px auto;
   color: #238d78;
   border-color: #238d78;
-  text-shadow: .5px .5px black;
+  text-shadow: .25px .5px black;
 }
 
 img {
