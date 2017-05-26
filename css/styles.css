@@ -1,27 +1,26 @@
 .well {
-  font-family: serif;
+    float: center;
+    font-family: serif;
   font: georgia;
   text-align: center;
   background-image: url(well.jpg);
-  word-wrap: break-word;
   width: 50%;
   margin: 2px;
   color: #238d78;
   border-color: #238d78;
-  float: left;
+  text-shadow: .5px .5px black;
 }
 
 img {
   width: 150px;
   height: auto;
-  padding: 1px;
+  padding: 10px;
 }
 
 .panel {
   margin-top: 10px;
   margin-bottom: 10px;
   font-family: sans-serif;
-  float: right;
 }
 
 .panel-heading {
@@ -38,7 +37,6 @@ img {
   margin-bottom: 10px;
   padding: 15px;
   padding-top: .5px;
-  float: right;
 }
 
 .highlight {
@@ -53,4 +51,6 @@ img {
 
 body {
   background-image: url(background.jpg);
+  margin-right: 20px;
+  margin-left: 20px;
 }
