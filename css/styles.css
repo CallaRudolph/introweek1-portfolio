@@ -1,11 +1,14 @@
+
+
 .well {
   font-family: cursive;
   text-align: center;
-  background-color: #d9534f;
+  background-image: url(well.jpg);
   word-wrap: break-word;
   width: auto;
   margin: 2px;
-  border: 2px solid purple;
+  text-decoration: underline;
+  color: #ac5182;
 }
 
 .well img {
@@ -22,4 +25,9 @@
   body {
     color: blue;
   }
+}
+
+body {
+  background-image: url(background.jpg);
+
 }
