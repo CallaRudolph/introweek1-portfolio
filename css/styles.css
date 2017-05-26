@@ -1,14 +1,14 @@
 .well {
-  font-family: cursive;
-  font: Lucida Calligraphy;
+  font-family: serif;
+  font: georgia;
   text-align: center;
   background-image: url(well.jpg);
   word-wrap: break-word;
-  width: auto;
+  width: 50%;
   margin: 2px;
-  text-decoration: underline;
   color: #238d78;
   border-color: #238d78;
+  float: left;
 }
 
 .well img {
@@ -17,18 +17,32 @@
   padding: 1px;
 }
 
+.panel {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  float: right;
+}
+
 .panel-heading {
   background-image: url(well.jpg);
-  font-family: serif;
 }
 
 .panel-body {
-  font-family: serif;
+  color: #238d78;
 }
 
-.well1 {
+.well2 {
   background: #eca9a7;
-  font-size: 8pt;
+  font-size: 9pt;
+  margin-bottom: 10px;
+  padding: 15px;
+  padding-top: .5px;
+  float: right;
+}
+
+.highlight {
+  color: yellow;
 }
 
 @media screen and (max-width: 400px) {
