@@ -1,20 +1,29 @@
-
-
 .well {
   font-family: cursive;
+  font: Lucida Calligraphy;
   text-align: center;
   background-image: url(well.jpg);
   word-wrap: break-word;
   width: auto;
   margin: 2px;
   text-decoration: underline;
-  color: #ac5182;
+  color: #238d78;
+  border-color: #238d78;
 }
 
 .well img {
   width: 150px;
   height: auto;
   padding: 1px;
+}
+
+.panel-heading {
+  background-image: url(well.jpg);
+  font-family: serif;
+}
+
+.panel-body {
+  font-family: serif;
 }
 
 .well1 {
@@ -29,5 +38,4 @@
 
 body {
   background-image: url(background.jpg);
-
 }
