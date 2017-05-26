@@ -27,7 +27,8 @@
 }
 
 .well1 {
-  background: #eca9a7
+  background: #eca9a7;
+  font-size: 8pt;
 }
 
 @media screen and (max-width: 400px) {
