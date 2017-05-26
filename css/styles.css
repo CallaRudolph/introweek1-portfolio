@@ -48,14 +48,14 @@ img {
   color: yellow;
 }
 
-@media screen and (max-width: 400px) {
-  body {
-    color: blue;
-  }
-}
-
 body {
   background-image: url(background.jpg);
   margin-right: 20px;
   margin-left: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    color: purple;
+  }
 }
