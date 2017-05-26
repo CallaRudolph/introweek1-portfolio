@@ -1,6 +1,3 @@
-body {
-
-}
 .well {
   font-family: cursive;
   text-align: center;
@@ -11,9 +8,6 @@ body {
   border: 2px solid purple;
 }
 
-.container {
-}
-
 .well img {
   width: 150px;
   height: auto;
@@ -22,4 +16,10 @@ body {
 
 .well1 {
   background: #eca9a7
+}
+
+@media screen and (max-width: 400px) {
+  body {
+    color: blue;
+  }
 }
