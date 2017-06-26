@@ -1,6 +1,6 @@
 # _Calla's Intro Portfolio_
 
-#### _Git, HTML and CSS Independent Assignment for Epicodus, 05.25.2017_
+#### _Git, HTML and CSS Independent Assignment for Epicodus, 05.26.2017_
 
 #### By _**Calla Rudolph**_
 
@@ -14,11 +14,15 @@ _Some of the CSS styling for div classes include margin and padding settings, bo
 
 ## Setup Requirements
 
-* _This page will load into a browser as .html_
-
-## Known Bugs
-
-_At this time, there don't appear to be any known bugs._
+* Open GitHub site on your browser: https://github.com/CallaRudolph/introweek1-portfolio
+* Select the dropdown (green box) "Clone or download"
+* Copy the link for the GitHub repository
+* Open Terminal on your computer
+* In Terminal, perform the following steps:
+  * type 'cd desktop' and press enter
+  * type 'git clone' then copy the repository link and press enter
+  * type 'cd introweek1-portfolio' to access the path on your computer
+  * type 'open index.html' to view the webpage on your browser
 
 ## Support and contact details
 
@@ -30,6 +34,6 @@ _This project was created using HTML, CSS, and Bootstrap. Multiple commits were 
 
 ### License
 
-Copyright (c) 2017 Calla Rudolph
+Copyright &copy; 2017 Calla Rudolph
 
 This software is licensed under the MIT license.
